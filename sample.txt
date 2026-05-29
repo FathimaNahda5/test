@@ -1,3 +1,5 @@
 welcome ,hi i am fathima nahda
 
 home page completed
+
+About page added
